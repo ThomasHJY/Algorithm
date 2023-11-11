@@ -33,5 +33,8 @@
     <ClCompile Include="BronzeV_1809.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BronzeV_2338.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
